@@ -95,3 +95,6 @@
   - Time of Solomon
   - The new concept of "Trust"
   - Show currency systems that fail, within the debt-based model
+  - Ark of the covenant - a bend on the contract - taking the contract away from its final destination
+    - Brue nebueneh: the bend in the good
+    - Compare the Holy Books to the Historical Books
