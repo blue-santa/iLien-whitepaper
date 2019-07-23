@@ -25,5 +25,14 @@
   - A key value of this new invention is the ability to prevent a double spend within a confined network
   - This changes the model for financial governance
   - Mention how blockchain technology is useful for many things, but chief among them is this ability to create a "trustless" network, which is especially useful when dealing with money
-- 
-
+    - make sure to keep clear between "in trust" and "trustless"
+  - How the Blockchain Consensus Mechanism presents an initial solution for mitigating the damages caused by the debt-based model
+- An Introduction to iLien
+  - The new system of cryptocurrency now exists and the infrastructure is coming into place
+  - The old system still exists, and we need to create an incentive to take what's left of the old model, and transfer the value therein to the new model, and to do this in a manner that creates a model no of Debt, but of Abundance
+- What is an Abundance Model
+  - Details around the model of abundance
+  - Sources and examples that show how the model of abundance can solve the larger problems that are found in the Debt system
+  - (Counter points, if necessary, and responses)
+- How iLien Transfers Value from the Old System to Value of the New System
+  - 
