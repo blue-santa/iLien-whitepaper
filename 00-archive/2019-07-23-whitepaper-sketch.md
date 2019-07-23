@@ -35,4 +35,11 @@
   - Sources and examples that show how the model of abundance can solve the larger problems that are found in the Debt system
   - (Counter points, if necessary, and responses)
 - How iLien Transfers Value from the Old System to Value of the New System
-  - 
+  - Weaknesses in the Old System
+    - Recall that there is no receipt issued
+    - The debt technically never ends
+      - Remains "in trust"
+      - May be settled, but the debt remains "in trust" 
+  - iLien uses the existing system to call the bank to account for a receipt
+    - iLien grants a certain amount of time to produce the receipt, and if it's not produced, then iLien uses the existing legal system to hold the bank to account
+  - iLien makes the value of the ILN token equal the value of all liens held against the government
