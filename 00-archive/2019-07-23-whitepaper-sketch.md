@@ -65,4 +65,33 @@
   - The iLien team takes lien from the public, searches for liens that are suitable for the iLien method, and then performs the legal actions necessary to "clean" the debt
   - Once the debt is cleaned, iLien then issues tokens that are tied to the value of the debt at that point in time
     - How does this relate to the gold value of iLien
-  - 
+  - Method of disbursal
+    - Those who hold (X) token receive airdrops of the value
+  - This ILN token now is legally tied to the value of gold, and can be spent or traded in accordance, according to the desire of the user
+- Stable coin value
+  - Value is legally associated with 1 gram of gold at the time the ILN is issued to the community
+  - The value is the work of the community in cleaning debts and double spends held in the old system
+  - Scarcity vs abundance
+  - Gold, and the gold meteor
+  - Diamond market
+  - ILN goes to the holders
+  - Traditional Supply & Demand model is flawed
+  - Comparing to currencies that are debt based
+  - As a planet, we have never been debt-free, since before the pharoahs
+    - (Do we need to cover this history in the introduction?)
+  - See peers entering a system of abundance
+  - The price you want to trade it, is your business
+    - You don't need to make a profit at this
+    - There's plenty of this where it came from
+  - Adding to the value of Bitcoin
+    - Bitcoin was set up as an experiment
+  - Difference between inherent and exchange values
+  - ILN avoids debt-based relationships
+  - ILN master nodes
+    - Project managers
+- Notes
+  - Explain issues with scarcity
+  - Show aspect of world being in debt since time of the pharaohs
+  - Time of Solomon
+  - The new concept of "Trust"
+  - Show currency systems that fail, within the debt-based model
