@@ -53,4 +53,16 @@
   - How does ILN create an abundance-based model
     - Discuss how currency that is provably scarce and is not issued over debt is a healthy system
 - ILN Method of Creation and Distribution
+  - History
+      - Discuss the legal method in which ILN was originally concenceived, registered, created (according to the old system)
+      - (Maybe mention here the details behind the team, and where your expertise comes into play)
+      - Any other historical background
+  - ILN intends to solve X Amount of the System
+    - What are the limits and bounds of the ILN project
+    - Other blockchain projects can copy this model
+    - The maximum amount of value that the ILN project can clean is X amount, according to the token model
+    - X amount was originally distributed as an airdrop to all Komodo holders
+  - The iLien team takes lien from the public, searches for liens that are suitable for the iLien method, and then performs the legal actions necessary to "clean" the debt
+  - Once the debt is cleaned, iLien then issues tokens that are tied to the value of the debt at that point in time
+    - How does this relate to the gold value of iLien
   - 
