@@ -42,4 +42,15 @@
       - May be settled, but the debt remains "in trust" 
   - iLien uses the existing system to call the bank to account for a receipt
     - iLien grants a certain amount of time to produce the receipt, and if it's not produced, then iLien uses the existing legal system to hold the bank to account
-  - iLien makes the value of the ILN token equal the value of all liens held against the government
+  - Formation of ILN
+    - ILN is all receipted
+    - Not debt based
+    - The conversion contract is based on the receipt
+      - Can we place these images into the actual database? Seems very interesting
+    - Cleaning out the debt of the old system
+    - The only cryptocurrency that is not debt based
+      - Can compare to other cryptocurrencies, also
+  - How does ILN create an abundance-based model
+    - Discuss how currency that is provably scarce and is not issued over debt is a healthy system
+- ILN Method of Creation and Distribution
+  - 
